@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Hello, my name is  Priyanshu Raj</h1>
+  <p>I am learning web development and this is my simple portfolio.</p>
+</body>
+</html>
